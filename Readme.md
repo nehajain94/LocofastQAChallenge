@@ -18,3 +18,5 @@ This repository has following features:
 #### Configuration
 
 Add username and password in `config.py`
+Add chrome path from 'config.py'
+
