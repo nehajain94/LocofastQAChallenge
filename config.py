@@ -1,4 +1,4 @@
 
-username = 'nehajain94'
-password = 'mehakjain#225'
+username = ''
+password = ''
 chrome_path = r"C:\SeleniumDrivers\chromedriver.exe"
